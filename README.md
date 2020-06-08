@@ -1,5 +1,5 @@
-# FAD
-Full Application Developer from SQL using command line.
+# FAAD
+Full Autometic Application Developer from SQL using command line.
 
 Full application will be developed on the basis of Laravel Architecture concept.
 
